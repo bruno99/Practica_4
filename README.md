@@ -1,5 +1,5 @@
 Install dependencies.
-Run
+
 
 npm install
 
